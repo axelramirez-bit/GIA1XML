@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding="UTF-8"?> <!-- Declaracion XML: Version y codificacion-->
+<catalogo> <!-- Elemento raiz unico del documento -->
+    <libro id = "bk20"> <!-- Elemenyo hijo con atributo "id"-->
+        <titulo>Pregrama en Java</titulo> <!-- Tecto del tirulo-->
+        <autor>Axel Ramirez</autor><!-- Autor del libro-->
+        <precio>20.20</precio> <!-- Elemeyo con atributo y contenido nuevo-->
+        <publicacion>2024-09-01</publicacion> <!-- Fecha en formato ISO S020-->
+    </libro>
+</catalogo>

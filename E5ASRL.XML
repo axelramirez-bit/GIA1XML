@@ -1,0 +1,31 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<empleados>
+    <empleado>
+        <nombre>Melany</nombre>
+        <apellido>Mejia</apellido>
+        <edad>17</edad>
+        <departamento>Finanzas</departamento>
+        <cargo>Analisis</cargo>
+    </empleado>
+        <empleado>
+        <nombre>Diego</nombre>
+        <apellido>Quisque</apellido>
+        <edad>17</edad>
+        <departamento>Ventas</departamento>
+        <cargo>Empleado</cargo>
+    </empleado>
+        <empleado>
+        <nombre>Christian</nombre>
+        <apellido>Pocon</apellido>
+        <edad>19</edad>
+        <departamento>Marketing</departamento>
+        <cargo>Especialista en redes sosciales</cargo>
+    </empleado>
+    <empleado>
+        <nombre>Jennifer</nombre>
+        <apellido>Geronimo</apellido>
+        <edad>19</edad>
+        <departamento>Admistracion</departamento>
+        <cargo>Especialista en economias</cargo>
+    </empleado>
+</empleados>

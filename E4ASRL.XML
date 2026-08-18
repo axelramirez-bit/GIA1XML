@@ -1,0 +1,137 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<catalogo> 
+    <producto>
+        <nombre>Smartphone xyz</nombre>
+        <descripcion>Un smarphone avanzado con excelentes caracteristicas</descripcion>
+        <precio>499.20</precio>
+        <caracteristicas>
+            <caracteristica nombre = "Pantalla" > 5.5 pulgadas</caracteristica>
+            <caracteristica nombre = "Procesador" > Snapdragon - 855</caracteristica>
+            <caracteristica nombre = "Memoria RAN" > 6-GB pulgadas</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Tablet ABD</nombre>
+        <descripcion>Una tablet versatil para el trabajo y el entretenimiento</descripcion>
+        <precio>200.99</precio>
+        <caracteristicas>
+            <caracteristica nombre = "Pantalla" > 10.1 pulgadas</caracteristica>
+            <caracteristica nombre = "Procesodor" > Intel COre I5</caracteristica>
+            <caracteristica nombre = "Memoria RAN" >Memoria interna</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Tableta Digitalizadora</nombre>
+        <descripcion>6 Meses de garantía
+            Código Intelaf: dig-wac-inps25n
+            MPN: PTK470K0A
+            Productos parecidos a</descripcion>
+        <precio>Q1,805.00</precio>
+        <caracteristicas>
+            <caracteristica nombre = "Marca" > Wacom Modelo Intuos</caracteristica>
+            <caracteristica nombre = "Edicon" > 2025 </caracteristica><!--https://www.intelaf.com/precios_stock_detallado/dig-wac-inps25n -->
+            <caracteristica nombre = "Color" > Negro</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Redmi Buds 6 Play Audífonos Bluetooth</nombre>
+        <descripcion>11 años creciendo junto con los chapines, 4.7 de 5 En Google Reviews, + 100mil descargas del App, + 300mil clientes satisfechos, + 300mil clientes satisfechos</descripcion>
+        <precio> 110.00</precio>
+         <caracteristicas>
+            <caracteristica nombre = "Marca"> Xiaomi </caracteristica>
+            <caracteristica nombre = "Modelo"> Redmi Buds 6 Play </caracteristica> <!--https://www.kemik.gt/xiaomi-redmi-buds-6-play-audifonos-bluetooth-blanco -->
+            <caracteristica nombre = "Negro"> Blanco</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Redmi Buds 6 Play Audífonos Bluetooth</nombre>
+        <descripcion>11 años creciendo junto con los chapines, 4.7 de 5 En Google Reviews, + 100mil descargas del App, + 300mil clientes satisfechos, + 300mil clientes satisfechos</descripcion>
+        <precio> 110.00</precio>
+        <caracteristicas>
+            <caracteristica nombre = "Marca"> Xiaomi </caracteristica>
+            <caracteristica nombre = "Modelo"> Redmi Buds 6 Play </caracteristica> <!--https://www.kemik.gt/xiaomi-redmi-buds-6-play-audifonos-bluetooth-azul -->
+            <caracteristica nombre = "Negro"> Azul</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Redmi Buds 6 Play Audífonos Bluetooth</nombre>
+        <descripcion>11 años creciendo junto con los chapines, 4.7 de 5 En Google Reviews, + 100mil descargas del App, + 300mil clientes satisfechos, + 300mil clientes satisfechos</descripcion>
+        <precio> 110.00</precio>
+          <caracteristicas>
+            <caracteristica nombre = "Marca"> Xiaomi </caracteristica>
+            <caracteristica nombre = "Modelo"> Redmi Buds 6 Play </caracteristica> <!-- https://www.kemik.gt/xiaomi-redmi-buds-6-play-audifonos-bluetooth-rosado-->
+            <caracteristica nombre = "Negro"> Rosado</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Redmi Buds 6 Play Audífonos Bluetooth</nombre>
+        <descripcion>11 años creciendo junto con los chapines, 4.7 de 5 En Google Reviews, + 100mil descargas del App, + 300mil clientes satisfechos, + 300mil clientes satisfechos</descripcion>
+        <precio> 129.00</precio>
+         <caracteristicas>
+            <caracteristica nombre = "Marca"> Xiaomi </caracteristica>
+            <caracteristica nombre = "Modelo"> Redmi Buds 6 Play y</caracteristica> <!--https://www.kemik.gt/xiaomi-redmi-buds-6-play-audifonos-bluetooth-negro -->
+            <caracteristica nombre = "Negro"> Blanco</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Redmi Buds 6 Audífonos</nombre>
+        <descripcion>uotas
+Envío regular GRATIS - Recibe entre hoy martes 18 de agosto y miércoles 19 de agosto a Ciudad de Guatemala, Guatemala Cambiar dirección</descripcion>
+        <precio>373.20</precio>
+        <caracteristicas>
+            <caracteristica nombre = "Marca"> Xiaomi </caracteristica>
+            <caracteristica nombre = "Modelo"> Redmi Buds 6 Audífonos Bluetooth 5.4 Inalámbricos con Estuche de Carga USB-C </caracteristica> <!--https://www.kemik.gt/xiaomi-redmi-buds-6-audifonos-bluetooth-blanco -->
+            <caracteristica nombre = "Negro"> Blanco</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Redmi Buds 6 Audífonos</nombre>
+        <descripcion>uotas
+Envío regular GRATIS - Recibe entre hoy martes 18 de agosto y miércoles 19 de agosto a Ciudad de Guatemala, Guatemala Cambiar dirección</descripcion>
+        <precio>347.20</precio>
+        <caracteristicas>
+            <caracteristica nombre = "Marca"> Xiaomi </caracteristica>
+            <caracteristica nombre = "Modelo"> Redmi Buds 6 Audífonos Bluetooth 5.4 Inalámbricos con Estuche de Carga USB-C </caracteristica> <!-- https://www.kemik.gt/xiaomi-redmi-buds-6-audifonos-bluetooth-negro-->
+            <caracteristica nombre = "Negro"> Negro</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Redmi Buds 6 Audífonos</nombre>
+        <descripcion>uotas
+Envío regular GRATIS - Recibe entre hoy martes 18 de agosto y miércoles 19 de agosto a Ciudad de Guatemala, Guatemala Cambiar dirección</descripcion>
+        <precio>347.20</precio>
+        <caracteristicas>
+            <caracteristica nombre = "Marca"> Xiaomi </caracteristica>
+            <caracteristica nombre = "Modelo"> Redmi Buds 6 Audífonos Bluetooth 5.4 Inalámbricos con Estuche de Carga USB-C </caracteristica> <!-- https://www.kemik.gt/xiaomi-redmi-buds-6-audifonos-bluetooth-verde-->
+            <caracteristica nombre = "Negro"> Verde</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Redmi Buds 6 Active Azul</nombre>
+        <descripcion>Envío 
+Q15
+.
+00
+ - Recibe entre hoy martes 18 de agosto y miércoles 19 de agosto a Ciudad de Guatemala, Guatemala Cambiar dirección</descripcion>
+        <precio>249.20</precio>
+        <caracteristicas>
+            <caracteristica nombre = "Marca"> Xiaomi </caracteristica>
+            <caracteristica nombre = "Modelo"> Redmi Buds 6 Active   </caracteristica> <!--https://www.kemik.gt/xiaomi-redmi-buds-6-active-azul-->
+            <caracteristica nombre = "Negro"> Azul</caracteristica>
+        </caracteristicas>
+    </producto>
+    <producto>
+        <nombre>Redmi Buds 6 Active Azul</nombre>
+        <descripcion>Envío 
+Q15
+.
+00
+ - Recibe entre hoy martes 18 de agosto y miércoles 19 de agosto a Ciudad de Guatemala, Guatemala Cambiar dirección</descripcion>
+        <precio>149.20</precio>
+        <caracteristicas>
+            <caracteristica nombre = "Marca"> Xiaomi </caracteristica>
+            <caracteristica nombre = "Modelo"> Redmi Buds 6 Active   </caracteristica> <!--https://www.kemik.gt/xiaomi-redmi-buds-6-active-negro -->
+            <caracteristica nombre = "Negro"> Azul</caracteristica>
+        </caracteristicas>
+    </producto>
+</catalogo>
