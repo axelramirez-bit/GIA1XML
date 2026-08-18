@@ -1,27 +1,27 @@
 <?xml version = "1.0" encoding="UTF-8"?>
 <empleados>
-    <empleado>
+    <empleado><!-- etiqueta de empleado  -->
         <nombre>Melany</nombre>
         <apellido>Mejia</apellido>
         <edad>17</edad>
         <departamento>Finanzas</departamento>
         <cargo>Analisis</cargo>
     </empleado>
-        <empleado>
+        <empleado><!-- etiqueta de empleado  -->
         <nombre>Diego</nombre>
         <apellido>Quisque</apellido>
         <edad>17</edad>
         <departamento>Ventas</departamento>
         <cargo>Empleado</cargo>
     </empleado>
-        <empleado>
+        <empleado> <!-- etiqueta de empleado  -->
         <nombre>Christian</nombre>
         <apellido>Pocon</apellido>
         <edad>19</edad>
         <departamento>Marketing</departamento>
         <cargo>Especialista en redes sosciales</cargo>
     </empleado>
-    <empleado>
+    <empleado> <!-- etiqueta de empleado de 6to -->
         <nombre>Jennifer</nombre>
         <apellido>Geronimo</apellido>
         <edad>19</edad>

@@ -5,5 +5,5 @@
         <autor>Axel Ramirez</autor><!-- Autor del libro-->
         <precio>20.20</precio> <!-- Elemeyo con atributo y contenido nuevo-->
         <publicacion>2024-09-01</publicacion> <!-- Fecha en formato ISO S020-->
-    </libro>
-</catalogo>
+    </libro><!-- etiqueta finalizada la etiqueta de libro -->
+</catalogo><!-- etiqueta de elemeto raiz finalizado -->

@@ -1,17 +1,17 @@
 <?xml version = "1.0" encoding="UTF-8"?>
-<Libros> 
-    <libro titulo="Cien años de soledad" autor= "Gabriel Garcia Maequez" año ="1907"/>
-    <libro titulo="1984" autor= "George Orwell" año ="1949"/>
+<Libros> <!-- etiqueta raiz -->
+    <libro titulo="Cien años de soledad" autor= "Gabriel Garcia Maequez" año ="1907"/><!-- etiqueta de libro -->
+    <libro titulo="1984" autor= "George Orwell" año ="1949"/> <!-- etiqueta de libro -->
     <libro titulo="El gran gataby" autor= "Scoll Fitzgealdr" año ="1926"/>
-    <libro titulo="El ingenioso hidalgo Don Quijote de la Mancha" autor= "Gabriel Garcia Maequez" año ="1907"/>
-    <libro titulo="Un mundo feliz" autor= "Aldous Huxley" año ="1932"/>
-    <libro titulo="El Aleph" autor= "Jorge Luis Borges" año ="1949"/>
-    <libro titulo="El guardián entre el centeno" autor= "J.D. Salinger" año ="1981"/>
-    <libro titulo="Frankenstein" autor= "Mary Shelley" año ="1818"/>
-    <libro titulo="El principito" autor= "Juan Rulfo" año ="1955"/>
-    <libro titulo="Crimen y castigo" autor= "Fiódor Dostoyevski" año ="1866"/>
-    <libro titulo="El tunel" autor= "Ernesto Sabato" año ="1948"/>
-    <libro titulo="La metamorfosis" autor= "Franz Kafka" año ="1915"/>
-    <libro titulo="Pedro Páramo" autor= "Juan Rulfo" año ="1955"/>
-    <libro titulo="Los miserables" autor= "Victor Hugz" año ="1862"/>
-</Libros>
+    <libro titulo="El ingenioso hidalgo Don Quijote de la Mancha" autor= "Gabriel Garcia Maequez" año ="1907"/><!-- etiqueta de libro -->
+    <libro titulo="Un mundo feliz" autor= "Aldous Huxley" año ="1932"/><!-- etiqueta de libro -->
+    <libro titulo="El Aleph" autor= "Jorge Luis Borges" año ="1949"/><!-- etiqueta de libro -->
+    <libro titulo="El guardián entre el centeno" autor= "J.D. Salinger" año ="1981"/><!-- etiqueta de libro -->
+    <libro titulo="Frankenstein" autor= "Mary Shelley" año ="1818"/><!-- etiqueta de libro -->
+    <libro titulo="El principito" autor= "Juan Rulfo" año ="1955"/><!-- etiqueta de libro -->
+    <libro titulo="Crimen y castigo" autor= "Fiódor Dostoyevski" año ="1866"/><!-- etiqueta de libro -->
+    <libro titulo="El tunel" autor= "Ernesto Sabato" año ="1948"/><!-- etiqueta de libro -->
+    <libro titulo="La metamorfosis" autor= "Franz Kafka" año ="1915"/><!-- etiqueta de libro -->
+    <libro titulo="Pedro Páramo" autor= "Juan Rulfo" año ="1955"/><!-- etiqueta de libro -->
+    <libro titulo="Los miserables" autor= "Victor Hugz" año ="1862"/><!-- etiqueta de libro -->
+</Libros><!-- etiqueta de finalizacion de raiz -->

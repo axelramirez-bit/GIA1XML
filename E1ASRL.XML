@@ -1,4 +1,4 @@
-<libro id ="20" autor = "Axel Ramirez" año = "2026" disponible = "true">
-    <titulo> Introduccuin a Amazon web Services </titulo>
-    <aditorial> Editorial tech</aditorial>
-</libro>
+<libro id ="20" autor = "Axel Ramirez" año = "2026" disponible = "true"> <!--Ejempolo de libro-->
+    <titulo> Introduccuin a Amazon web Services </titulo> <!-- etiqueta de titulo -->
+    <aditorial> Editorial tech</aditorial> <!-- etiqueta de editorial -->
+</libro> <!-- etiqueta de finalizacion de declaracion -->
